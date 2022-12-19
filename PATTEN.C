@@ -15,7 +15,7 @@ void patten()
 		printf("\n");
 	}
 
-}         */
+}         
 void patten2()
 {
 	for(i=1;i<=5;i++)
@@ -26,7 +26,7 @@ void patten2()
 		}
 		printf("\n");
 	}
-}
+} */
 void patten3()
 {
 
